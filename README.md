@@ -1,1 +1,2 @@
 # odin-recipes
+  This project is meant to reinforce my HTML learning. This project also demonstrates the ability to create an html document with a boilerplate, and use different html tags such as headers, lists, links, images, and paragraphs.
